@@ -1,4 +1,4 @@
-# Huffman Text Compressor
+# Text Compressor Pro
 
 This project implements a Huffman coding based text file compressor and decompressor in C++.
 
