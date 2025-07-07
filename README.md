@@ -19,10 +19,10 @@ This project implements a lossless text compression and decompression tool using
 ## 📂 File Structure
 
 Text-Compressor/
-├── input_main.txt # Original input file
-├── compressed.bin # Compressed binary output
-├── main.cpp # Main compression-decompression logic
-└── README.md # This file
+- ├── input_main.txt # Original input file
+- ├── compressed.bin # Compressed binary output
+- ├── main.cpp # Main compression-decompression logic
+- └── README.md # This file
 
 ---
 
